@@ -12,3 +12,5 @@ Feature: Check titles on all pages
     When I open Homepage
     Then I click on About button
     Given I see title "about_title"
+
+
